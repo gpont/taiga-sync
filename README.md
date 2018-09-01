@@ -1,12 +1,13 @@
 # Taiga.io exporter
 
-Tool for export stats from taiga.io service to google sheets.
+Tool for export stats from [Taiga.io](taiga.io) service to [Google Spreadsheets](https://docs.google.com/spreadsheets/). This tool uses [Taiga.io API v1](https://taigaio.github.io/taiga-doc/dist/api.html).
 
 ## Installation
 
 ### Requirements
 
-* Python 3.3 and up
+* Python 3.3 and up ![Version](https://img.shields.io/badge/version-1.0.0-lightgrey.svg)
+* [requirements.txt](./requirements.txt)
 
 `$ pip install -r requirements.txt`
 
