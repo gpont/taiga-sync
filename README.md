@@ -1,6 +1,6 @@
 # Taiga.io exporter ![Version](https://img.shields.io/badge/version-1.0.0-lightgrey.svg)
 
-Tool for export stats from [Taiga.io](taiga.io) service to [Google Spreadsheets](https://docs.google.com/spreadsheets/). This tool uses [Taiga.io API v1](https://taigaio.github.io/taiga-doc/dist/api.html).
+Tool for export stats from [Taiga.io](https://taiga.io/) service to [Google Spreadsheets](https://docs.google.com/spreadsheets/). This tool uses [Taiga.io API v1](https://taigaio.github.io/taiga-doc/dist/api.html).
 
 ## Installation
 
